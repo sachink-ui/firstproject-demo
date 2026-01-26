@@ -1,3 +1,5 @@
 author # firstproject-demo
+<br>
 This is my first git repository.
-Author-Sachin kumar
+<br>
+Author - Sachin kumar(sachink-ui)
